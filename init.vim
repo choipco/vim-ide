@@ -34,3 +34,10 @@ Plug 'ghifarit53/tokyonight-vim'
 
 
 call plug#end()
+
+" from ~/.vimrc
+set indentexpr=""
+filetype indent off
+
+" colorscheme nord
+
