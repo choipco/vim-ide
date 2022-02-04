@@ -10,3 +10,6 @@
 
 # Base
 -- https://github.com/junegunn/vim-plug#neovim
+
+# JDK_HOME, JAVA_HOME, java.home setup needed
+-- https://github.com/neoclide/coc-java
