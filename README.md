@@ -6,5 +6,7 @@
 
 # Future Forward
 
-- - Use NeoVIM - -
+- - Use NeoVIM
 
+# Base
+-- https://github.com/junegunn/vim-plug#neovim
