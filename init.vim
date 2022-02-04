@@ -22,15 +22,17 @@ let g:coc_global_extensions = [
 
 Plug 'hail2u/vim-css3-syntax'
 Plug 'othree/html5.vim'
+
 Plug 'pangloss/vim-javascript'
 Plug 'jelera/vim-javascript-syntax'
 Plug 'othree/yajs'
-Plug 'sheerun/vim-polyglot'
 
-Plug 'arcticicestudio/nord-vim'
+"Plug 'sheerun/vim-polyglot'
+
+"Plug 'arcticicestudio/nord-vim'
 " Plug 'ycm-core/YouCompleteMe'
 
-Plug 'ghifarit53/tokyonight-vim'
+"Plug 'ghifarit53/tokyonight-vim'
 
 
 call plug#end()
